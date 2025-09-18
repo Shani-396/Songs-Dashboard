@@ -1,0 +1,36 @@
+# Node / Nest.js
+node_modules/
+dist/
+build/
+logs/
+*.log
+
+# React
+Frontend - React/node_modules/
+Frontend - React/build/
+
+# Environment
+.env
+.env.*.local
+
+# IDEs / Editors
+.vscode/*
+.idea/
+.DS_Store
+
+# OS
+*.DS_Store
+
+# Tests
+coverage/
+.nyc_output/
+
+# Temp
+.temp/
+.tmp/
+pids/
+*.pid
+*.pid.lock
+
+# Diagnostic reports
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
