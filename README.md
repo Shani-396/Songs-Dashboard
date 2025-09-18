@@ -23,7 +23,7 @@ A full-stack web application built with **React**, **NestJS**, and **PostgreSQL*
 ### Prerequisites
 
 - Node.js  
-- PostgreSQL
+- Docker & Docker Compose
 
 ### Setup Instructions
 
